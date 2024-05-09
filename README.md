@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/dragonqween/dragonqween/main/dragonqween_github_logo.png) Hey, soy DragonQween 🔥
+# Hey, soy DragonQween 🔥
 
 <!--
 **DragonQween/DragonQween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
